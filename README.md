@@ -7,6 +7,7 @@ To-do list:
 3. Add pictures and equations manual/documentation on what actually happens
 
 FAQ:
+
 Q: Why didnt you do this in Excel like your professor asked you to?
 A: Because I personally feel it is easier to modify functions that involve linear interpolation and such in Python, also because I'm more comfortable with it
 
