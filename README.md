@@ -3,5 +3,5 @@ A simple python code written for an assignment which outputs in excel sheet as w
 
 To-do list:
 1. Actually write proper comments
-2.Clean up some iterative loops
+2. Clean up some iterative loops
 3. Add pictures and equations manual/documentation on what actually happens
